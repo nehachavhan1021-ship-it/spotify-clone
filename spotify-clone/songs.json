@@ -1,0 +1,18 @@
+{
+  "angree": {
+    "title": "Angry Playlist",
+    "description": "High energy songs",
+    "cover": "songs/angree/cover.png",
+    "songs": [
+      "Jai se aankhon ki - LionHeart.mp3"
+    ]
+  },
+  "bright": {
+    "title": "Bright Vibes",
+    "description": "Happy songs",
+    "cover": "songs/bright/cover.png",
+    "songs": [
+      "Little_Prince_Little_Boss copy 2.mp3"
+    ]
+  }
+}
